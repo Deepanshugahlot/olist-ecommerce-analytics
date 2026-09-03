@@ -37,7 +37,7 @@ The project transforms raw OLIST e-commerce data into business-ready analysis an
 
 <div align="center">
 
-**`Python`  ➜  `MySQL`  ➜  `SQL`  ➜  `Power BI`**
+**`Python`  ➜  `SQL`  ➜  `Power BI`**
 
 </div>
 
@@ -167,7 +167,7 @@ High-level view of overall business performance.
 
 Interactive **Year | State | Category** filters with a Reset Filters control.
 
-<p align="center"><img src="images/executive_overview.png" alt="Executive Overview" width="850"/></p>
+<p align="center"><img src="Images/executive_overview.png" alt="Executive Overview" width="850"/></p>
 
 ---
 
@@ -178,7 +178,7 @@ Customer behavior, retention, and purchasing patterns.
 
 **Key Visuals:** Customer Retention Mix • Customer Order Frequency • Monthly Customer Acquisition Trend • Monthly Average Customer Spend
 
-<p align="center"><img src="images/customer_intelligence.png" alt="Customer Intelligence" width="850"/></p>
+<p align="center"><img src="Images/customer_intelligence.png" alt="Customer Intelligence" width="850"/></p>
 
 ---
 
@@ -189,7 +189,7 @@ Seller ecosystem and seller-level revenue behavior.
 
 **Key Visuals:** Seller Revenue vs Order Volume (top 50 sellers) • Seller Revenue Concentration (Pareto) • Monthly Active Sellers
 
-<p align="center"><img src="images/seller_performance_intelligence.png" alt="Seller Performance Intelligence" width="850"/></p>
+<p align="center"><img src="Images/seller_performance_intelligence.png" alt="Seller Performance Intelligence" width="850"/></p>
 
 ---
 
